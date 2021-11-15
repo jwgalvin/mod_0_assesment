@@ -1,6 +1,6 @@
 laptop =
 {
-:Work_laptop => true,
+:work_laptop => true,
 :secrets => false,
 :name => "worktop",
 :journal => "classnotes",
